@@ -1,0 +1,10 @@
+[package]
+name = "small_world"
+version = "0.1.0"
+authors = ["ntan"]
+build = "build.rs"
+
+[dependencies]
+sdl2 = "0.29"
+ggez = "*"
+nalgebra = "0.13.0"
