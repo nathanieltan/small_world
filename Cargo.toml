@@ -1,10 +1,11 @@
 [package]
-name = "small_world"
+name = "high_five_bro"
 version = "0.1.0"
 authors = ["ntan"]
 build = "build.rs"
 
 [dependencies]
 sdl2 = "0.29"
+rand = "0.3"
 ggez = "*"
 nalgebra = "0.13.0"
