@@ -1,5 +1,5 @@
 [root]
-name = "high_five_bro"
+name = "lord_of_high_fives"
 version = "0.1.0"
 dependencies = [
  "ggez 0.3.3 (registry+https://github.com/rust-lang/crates.io-index)",

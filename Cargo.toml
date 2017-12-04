@@ -1,5 +1,5 @@
 [package]
-name = "high_five_bro"
+name = "lord_of_high_fives"
 version = "0.1.0"
 authors = ["ntan"]
 build = "build.rs"
